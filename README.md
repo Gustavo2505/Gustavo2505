@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo Henrique 👋
 
-- 🔭 Hoje trabalho com desenvolvimento mobile 
+- 🔭 Desenvolvedor c#
 - 🌱 Estudando Typescript 
 
 <div align="center">
