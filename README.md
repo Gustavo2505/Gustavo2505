@@ -1,7 +1,7 @@
 ### Olá eu sou o Gustavo Henrique 👋
 
 - 🔭 Desenvolvedor c#
-- 🌱 Estudando Typescript 
+- 🌱 Estudando Typescript e Angular
 
 <div align="center">
   <a href="https://github.com/Gustavo2505">
